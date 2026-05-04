@@ -1,0 +1,80 @@
+/**
+ * Syntax highlighting styles
+ */
+.highlight {
+  background: #fff;
+  @extend %vertical-rhythm;
+
+  .highlighter-rouge & {
+    background: #14181e;
+  }
+
+  .c     { color: #6a9955; font-style: italic } /* Comment */
+.err   { color: #f44747; background-color: #3c1e1e } /* Error */
+.k     { color: #c586c0; font-weight: bold } /* Keyword */
+.o     { color: #d4d4d4; font-weight: bold } /* Operator */
+
+.cm    { color: #6a9955; font-style: italic }
+.cp    { color: #d7ba7d; font-weight: bold }
+.c1    { color: #6a9955; font-style: italic }
+.cs    { color: #6a9955; font-style: italic; font-weight: bold }
+
+.gd    { color: #f44747; background-color: #3c1e1e }
+.gd .x { background-color: #5a2a2a }
+.ge    { font-style: italic }
+.gr    { color: #f44747 }
+.gh    { color: #569cd6 }
+.gi    { color: #b5cea8; background-color: #1e3c1e }
+.gi .x { background-color: #2a5a2a }
+.go    { color: #808080 }
+.gp    { color: #c586c0 }
+.gs    { font-weight: bold }
+.gu    { color: #4ec9b0 }
+.gt    { color: #f44747 }
+
+.kc    { color: #569cd6; font-weight: bold }
+.kd    { color: #569cd6; font-weight: bold }
+.kp    { color: #c586c0 }
+.kr    { color: #c586c0; font-weight: bold }
+.kt    { color: #4ec9b0; font-weight: bold }
+
+.m     { color: #b5cea8 }
+.s     { color: #ce9178 }
+
+.na    { color: #9cdcfe }
+.nb    { color: #4ec9b0 }
+.nc    { color: #4ec9b0; font-weight: bold }
+.no    { color: #4fc1ff }
+.ni    { color: #c586c0 }
+.ne    { color: #dcdcaa; font-weight: bold }
+.nf    { color: #dcdcaa; font-weight: bold }
+.nn    { color: #d4d4d4 }
+.nt    { color: #569cd6 }
+.nv    { color: #9cdcfe }
+
+.ow    { font-weight: bold }
+.w     { color: #666 }
+
+.mf    { color: #b5cea8 }
+.mh    { color: #b5cea8 }
+.mi    { color: #b5cea8 }
+.mo    { color: #b5cea8 }
+
+.sb    { color: #ce9178 }
+.sc    { color: #ce9178 }
+.sd    { color: #ce9178 }
+.s2    { color: #ce9178 }
+.se    { color: #d7ba7d }
+.sh    { color: #ce9178 }
+.si    { color: #ce9178 }
+.sx    { color: #ce9178 }
+.sr    { color: #d16969 }
+.s1    { color: #ce9178 }
+.ss    { color: #c586c0 }
+
+.bp    { color: #569cd6 }
+.vc    { color: #9cdcfe }
+.vg    { color: #9cdcfe }
+.vi    { color: #9cdcfe }
+.il    { color: #b5cea8 }
+}
