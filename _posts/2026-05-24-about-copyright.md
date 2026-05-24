@@ -4,11 +4,7 @@ title:  "About copyright"
 categories: society
 ---
 
-# The Pirate Bible
-
-## On Copyright
-
-### Historical notes
+## Historical notes
 
 Media piracy, today, is treated as if it were a *moral* crime, but we forget that the right to copy - copyright - is a fairly recent invention and was born, in England, with a fundamental objective: **censorship**.
 
@@ -20,7 +16,7 @@ A fine privilege that lasted about a century and a half, on the backs of authors
 
 Subsequently, with the rise of more liberal ideas, fearing that independent publishers would snatch their profits, and appealing to parliament, the Stationers managed to obtain that authors had a *property right* over their work, but that this right could be transferred like a contract, and here lies the cunning: authors could certainly not afford to print with those expensive machines so, for publication, they were forced to sign and to transfer the profits themselves to the publishers.
 
-### Today
+## Today
 
 The situation remained almost unchanged until the arrival of mass storage and the subsequent internet which allowed the costs of copying to be almost zeroed out and thus brought the real bottleneck to the surface: publishers.
 
@@ -48,7 +44,7 @@ All of this should be extended to any intellectual creation, including software 
 
 Before the famous **Open Letter to Hobbyists** by Bill Gates, the culture of software, which almost coincided with hacker values, was for the full freedom of exchange of software itself and the desire to improve systems: in fact software was distributed together with hardware, and the profit of companies was the physical support itself. In that letter, Gates instead created the sense of *proprietary software* that we have today, with a license of use - which even obliges us on how we must use it - and with a closed source code - for those who do not understand what this means, just think that the proprietary software you use is not inspectable, not modifiable, and you cannot really understand what it does and does not do; it could perfectly well be tracking you and you might perfectly well not know it: in short it is a closed black box. This also goes against both the freedom of man, the freedom to learn, but also the respect of users.
 
-### Economic model
+## Economic model
 
 Let us therefore divide into two uses: personal and commercial. Artists should be paid **only** for commercial purposes, and directly by those who distribute their art/intellectual product, like a simple transaction between private parties. This should neither be monopolized nor centralized as happens today, and it is the industries themselves that should pay the artist directly in order to make a profit from the distribution of their works. A new system should not even be created, it would simply be enough to not prosecute personal uses.
 
@@ -60,7 +56,6 @@ We should educate society to donate to authors - whether they create music, film
 
 De-monopolizing the major publishers would also be a way to allow more circulation of art and creativity, blocking this system that imposes on those with more money to bring forward the artist they have chosen and maintain a cultural predominance - after all it still maintains its original nature, that is censorship. Giving less power to publishers could allow a greater diffusion of works that would otherwise have remained obscure to the public due to cultural predominance and allow a more equitable and varied development of society.
 
-### The power of knowledge
 
 #### Sources
 
