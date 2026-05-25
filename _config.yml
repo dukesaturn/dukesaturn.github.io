@@ -32,6 +32,10 @@ plugins:
 
 markdown: kramdown
 
+header_pages:
+  - books.md
+  - music.md
+
 
 
 # Exclude from processing.
